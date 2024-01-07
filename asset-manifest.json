@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Textulites/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/Textulites/static/js/main.a285c44d.chunk.js",
+    "main.js.map": "/Textulites/static/js/main.a285c44d.chunk.js.map",
+    "runtime-main.js": "/Textulites/static/js/runtime-main.863a7d1b.js",
+    "runtime-main.js.map": "/Textulites/static/js/runtime-main.863a7d1b.js.map",
+    "static/js/2.30558358.chunk.js": "/Textulites/static/js/2.30558358.chunk.js",
+    "static/js/2.30558358.chunk.js.map": "/Textulites/static/js/2.30558358.chunk.js.map",
+    "static/js/3.93a34e7e.chunk.js": "/Textulites/static/js/3.93a34e7e.chunk.js",
+    "static/js/3.93a34e7e.chunk.js.map": "/Textulites/static/js/3.93a34e7e.chunk.js.map",
+    "index.html": "/Textulites/index.html",
+    "precache-manifest.fbc1ddb5bcb81ca9c61939955f687fd9.js": "/Textulites/precache-manifest.fbc1ddb5bcb81ca9c61939955f687fd9.js",
+    "service-worker.js": "/Textulites/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/Textulites/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.30558358.chunk.js.LICENSE.txt": "/Textulites/static/js/2.30558358.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.863a7d1b.js",
+    "static/js/2.30558358.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.a285c44d.chunk.js"
+  ]
+}
